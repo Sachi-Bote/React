@@ -1,7 +1,7 @@
 
 function App() {
   return (
-    <h1> Hriday | Sachi </h1>
+    <h1> Sachi </h1>
   );
 }
 
